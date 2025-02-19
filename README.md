@@ -10,7 +10,7 @@ This study addresses the challenge of classifying terrain images and its type fr
 
 Keywords: Support Vector Machine, Random Forest, K-Nearest Neighbors
 
-
+The actual code, report, and presentation can be found in this repository as well. 
 
 Final Grade: 99%
 
